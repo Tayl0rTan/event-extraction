@@ -1,0 +1,9 @@
+tensorflow-gpu==1.15.0
+tensorflow-probability==0.7.0
+bert4keras==0.7.0
+scipy==1.5.4
+numpy==1.16.4
+gensim==3.8.0
+scikit-learn
+torch==1.5.1
+requests==2.26.0
