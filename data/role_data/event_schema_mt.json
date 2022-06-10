@@ -1,0 +1,21 @@
+{"event_type": "下单", "role_list": [{"role": "下单商家 "}, {"role": "主体"}, {"role": "客体"}, {"role": "下单时间 "}, {"role": "触发词"}, {"role": "下单商品 "}, {"role": "下单金额 "}]}
+{"event_type": "加急", "role_list": [{"role": "触发词"}, {"role": "主体"}]}
+{"event_type": "退款", "role_list": [{"role": "主体"}, {"role": "触发词"}, {"role": "退款金额 "}, {"role": "退款问题 "}]}
+{"event_type": "赔付", "role_list": [{"role": "触发词"}, {"role": "赔付类型 "}, {"role": "赔付金额 "}, {"role": "状态"}]}
+{"event_type": "查询", "role_list": [{"role": "客体"}, {"role": "触发词"}]}
+{"event_type": "配送", "role_list": [{"role": "触发词"}, {"role": "配送问题 "}, {"role": "主体"}, {"role": "配送类型 "}]}
+{"event_type": "退单", "role_list": [{"role": "触发词"}, {"role": "主体"}, {"role": "退单问题 "}]}
+{"event_type": "接单", "role_list": [{"role": "触发词"}, {"role": "主体"}, {"role": "未接单时长 "}]}
+{"event_type": "联系", "role_list": [{"role": "触发词"}, {"role": "主体"}, {"role": "客体"}, {"role": "联系问题 "}]}
+{"event_type": "出餐", "role_list": [{"role": "触发词"}]}
+{"event_type": "收餐", "role_list": [{"role": "触发词"}, {"role": "主体"}]}
+{"event_type": "修改地址", "role_list": [{"role": "触发词"}]}
+{"event_type": "商品售完", "role_list": [{"role": "触发词"}]}
+{"event_type": "投诉", "role_list": [{"role": "触发词"}, {"role": "主体"}, {"role": "客体"}]}
+{"event_type": "咨询", "role_list": [{"role": "触发词"}]}
+{"event_type": "取餐", "role_list": [{"role": "触发词"}, {"role": "取餐问题 "}]}
+{"event_type": "餐损", "role_list": [{"role": "触发词"}]}
+{"event_type": "申请", "role_list": [{"role": "触发词"}, {"role": "主体"}]}
+{"event_type": "申诉", "role_list": [{"role": "触发词"}]}
+{"event_type": "升级二线", "role_list": [{"role": "触发词"}]}
+{"event_type": "二次配送", "role_list": [{"role": "触发词"}, {"role": "主体"}]}
